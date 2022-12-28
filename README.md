@@ -8,10 +8,6 @@
 
 > 一套完美集成 Vite 2.x + Vue 3.x + TypeScript + Vue Router + Vuex + Axios + ESLint 等健壮的前端快速开发模板
 
-## 在线预览
-
-https://vite-vue3-starter.xpoet.cn/
-
 ## 技术栈
 
 - 编程语言：[TypeScript 4.x](https://www.typescriptlang.org/zh/) + [JavaScript](https://www.javascript.com/)
