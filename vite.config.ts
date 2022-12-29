@@ -15,6 +15,8 @@ export default defineConfig({
   },
   base: './', // 设置打包路径
   server: {
+     // 热更新
+    hmr: true,
     host: '0.0.0.0', // 设置服务启动端口号
     port: 8088,
     open: true, // 设置服务启动时是否自动打开浏览器
