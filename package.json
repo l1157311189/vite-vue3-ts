@@ -14,10 +14,6 @@
     "prepare": "husky install",
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/XPoet/vite-vue3-starter.git"
-  },
   "keywords": [
     "Vite",
     "Vue3",
@@ -26,10 +22,6 @@
   ],
   "author": "XPoet",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/XPoet/vite-vue3-starter/issues"
-  },
-  "homepage": "https://github.com/XPoet/vite-vue3-starter#readme",
   "lint-staged": {
     "*.{vue,js,ts}": "eslint --fix"
   },
